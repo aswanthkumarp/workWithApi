@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "john",
+      "email": "john@xyz.com",
+      "age": 24,
+      "premiumMember": false
+    },
+    {
+      "id": 3,
+      "name": "Vincent",
+      "email": "vincent@xyz.com",
+      "age": 26,
+      "premiumMember": false
+    },
+    {
+      "id": 4,
+      "name": "Smith",
+      "email": "Smith@xyz.com",
+      "age": 34,
+      "premiumMember": true
+    },
+    {
+      "name": "aswanth",
+      "email": "aswa@fdf.com",
+      "age": 26,
+      "premiumMember": true,
+      "id": 37
+    },
+    {
+      "name": "aswanth",
+      "email": "aswa@fdf.com",
+      "age": 23,
+      "premiumMember": true,
+      "id": 38
+    },
+    {
+      "name": "Chris",
+      "email": "chris@xyz.com",
+      "age": 26,
+      "premiumMember": true,
+      "id": 39
+    }
+  ]
+}
